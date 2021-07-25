@@ -1,0 +1,32 @@
+{
+    "images": [
+        {
+          "thumbnail": "https://raw.githubusercontent.com/xiaolin/react-image-gallery/master/static/4v.jpg",
+          "original": "https://raw.githubusercontent.com/xiaolin/react-image-gallery/master/static/4v.jpg",
+          "embedUrl": "https://www.youtube.com/embed/4pSzhZ76GdM?autoplay=1&showinfo=0",
+          "description": "Render custom slides within the gallery",
+          "isVedio": true
+        },
+        {
+          "original": "https://raw.githubusercontent.com/xiaolin/react-image-gallery/master/static/image_set_default.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/xiaolin/react-image-gallery/master/static/image_set_thumb.jpg",
+          "imageSet": [
+            {
+              "srcSet": "https://raw.githubusercontent.com/xiaolin/react-image-gallery/master/static/image_set_cropped.jpg",
+              "media" : "(max-width: 1280px)"
+            },
+            {
+              "srcSet": "https://raw.githubusercontent.com/xiaolin/react-image-gallery/master/static/image_set_default.jpg",
+              "media" : "(min-width: 1280px)"
+            }
+          ]
+        },
+        {
+          "original": "https://raw.githubusercontent.com/xiaolin/react-image-gallery/master/static/1.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/xiaolin/react-image-gallery/master/static/1t.jpg",
+          "originalClass": "featured-slide",
+          "thumbnailClass": "featured-thumb",
+          "description": "Custom class for slides & thumbnails"
+        }
+      ]
+}
