@@ -5,7 +5,7 @@
           "original": "https://raw.githubusercontent.com/xiaolin/react-image-gallery/master/static/4v.jpg",
           "embedUrl": "https://www.youtube.com/embed/4pSzhZ76GdM?autoplay=1&showinfo=0",
           "description": "Render custom slides within the gallery",
-          "isVedio": true
+          "isVideo": true
         },
         {
           "original": "https://raw.githubusercontent.com/xiaolin/react-image-gallery/master/static/image_set_default.jpg",
